@@ -1,0 +1,44 @@
+﻿@using  System.Globalization
+@inject IJSRuntime JSRuntime
+@inject NavigationManager Nav
+
+    <div class="btn-group dropup w-100">
+        <button type="button"
+                class="btn btn-secondary dropdown-toggle"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false">
+            @Culture.Name
+        </button>
+        <div class="dropdown-menu">
+            @foreach (var culture in _supportedCultures)
+            {
+                <a class="dropdown-item" href="#" @onclick="@(() => Culture = culture)">
+                    @culture.Name
+                </a>
+            }
+        </div>
+    </div>
+
+@code {
+        CultureInfo[] _supportedCultures = new[]
+        {
+            new CultureInfo("en-US"),
+            new CultureInfo("fr-FR"),
+        };
+
+        CultureInfo Culture
+        {
+            get => CultureInfo.CurrentCulture;
+            set
+            {
+                if (CultureInfo.CurrentCulture != value)
+                {
+                    var js = (IJSInProcessRuntime)JSRuntime;
+                    js.InvokeVoid("blazorCulture.set", value.Name);
+
+                    Nav.NavigateTo(Nav.Uri, forceLoad: true);
+                }
+            }
+        }
+    }

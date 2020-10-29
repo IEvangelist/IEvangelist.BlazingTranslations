@@ -1,0 +1,8 @@
+﻿@page "/"
+@inject IStringLocalizer<Index> Localizer
+
+<h1>@Localizer["HelloWorld"]</h1>
+
+@Localizer["Greeting"]
+
+<SurveyPrompt Title="@Localizer["SurveyTitle"]" />
