@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Create translation pull request
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the main branch
@@ -30,6 +30,6 @@ jobs:
           endpoint: {{secrets.AZURE_TRANSLATOR_ENDPOINT}}
           # The source locale (i.e.; 'en'), used to create the glob pattern for which resource (**/*.en.resx) files to use as input
           sourceLocale: 'en'
-          
+
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3.4.1
