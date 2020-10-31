@@ -25,9 +25,9 @@ jobs:
         uses: IEvangelist/resource-translator@0.01
         with:
           # The Azure Cognitive Services translator resource subscription key
-          subscriptionKey: {{secrets.AZURE_TRANSLATOR_SUBSCRIPTION_KEY}}
+          subscriptionKey: ${{secrets.AZURE_TRANSLATOR_SUBSCRIPTION_KEY}}
           # The Azure Cognitive Services translator resource endpoint
-          endpoint: {{secrets.AZURE_TRANSLATOR_ENDPOINT}}
+          endpoint: ${{secrets.AZURE_TRANSLATOR_ENDPOINT}}
           # The source locale (i.e.; 'en'), used to create the glob pattern for which resource (**/*.en.resx) files to use as input
           sourceLocale: 'en'
 
