@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace IEvangelist.BlazingTranslations.Shared
+﻿namespace IEvangelist.BlazingTranslations.Shared
 {
     public class AzureCulture
     {
