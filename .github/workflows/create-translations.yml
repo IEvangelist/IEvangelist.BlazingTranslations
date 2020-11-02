@@ -10,6 +10,9 @@ on:
     paths:
     - '**.resx'
 
+env:
+  ROOT_PATH: ${{ github.action_path }}
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -21,8 +24,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - run: |
-        echo "Path: ${{ github.action_path }}"
+      - run: echo 'Path: ${{ env.ROOT_PATH }}'
         
       # Runs a single command using the runners shell
       - name: Resource translator
