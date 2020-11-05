@@ -1,5 +1,4 @@
 # This is a basic workflow to help you get started with Actions
-
 name: Create translation pull request
 
 # Controls when the action will run. Triggers the workflow on push or pull request
@@ -9,9 +8,6 @@ on:
     branches: [ main ]
     paths:
     - '**.resx'
-
-env:
-  ROOT_PATH: '${{ github.action_path }}'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -24,10 +20,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      
-      - name: Log
-        run: "echo Path: ${{ github.action_path }}"
-        
+
       # Runs a single command using the runners shell
       - name: Resource translator
         uses: IEvangelist/resource-translator@v1.0.2-preview1
