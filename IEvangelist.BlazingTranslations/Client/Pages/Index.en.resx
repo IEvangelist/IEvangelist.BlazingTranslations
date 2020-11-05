@@ -124,6 +124,6 @@
     <value>Hello, world!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
-    <value>How is Blazor working for you? Testing...</value>
+    <value>How is Blazor working for you?.</value>
   </data>
 </root>
