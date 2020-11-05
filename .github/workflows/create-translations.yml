@@ -30,7 +30,7 @@ jobs:
         
       # Runs a single command using the runners shell
       - name: Resource translator
-        uses: IEvangelist/resource-translator@v1
+        uses: IEvangelist/resource-translator@v1.0.1
         with:
           # The Azure Cognitive Services translator resource subscription key
           subscriptionKey: ${{ secrets.AZURE_TRANSLATOR_SUBSCRIPTION_KEY }}
