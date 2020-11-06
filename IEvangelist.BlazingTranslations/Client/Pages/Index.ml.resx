@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Greeting" xml:space="preserve">
-    <value>Welcome to your new app.</value>
+    <value>നിങ്ങളുടെ പുതിയ ആപ്പിലേക്ക് സ്വാഗതം.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Hello, world! I'm thrilled to see you.</value>
+    <value>ഹലോ വേള്‍ഡ്! നിങ്ങളെ കണ്ടതിൽ എനിക്ക് സന്തോഷമുണ്ട്.</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
-    <value>How is Blazor working for you?</value>
+    <value>ബ്ലാസര് നിനക്ക് വേണ്ടി എങ്ങനെയാണ് ജോലി ചെയ്യുന്നത്?</value>
   </data>
 </root>
