@@ -1,4 +1,5 @@
-﻿using IEvangelist.BlazingTranslations.Shared;
+﻿using IEvangelist.BlazingTranslations.Client.Interop;
+using IEvangelist.BlazingTranslations.Shared;
 using Microsoft.AspNetCore.Components;
 using Microsoft.JSInterop;
 using System.Collections.Generic;
@@ -17,18 +18,32 @@ namespace IEvangelist.BlazingTranslations.Client.Shared
         [Inject] HttpClient Http { get; set; }
 
         IEnumerable<CultureInfo> _supportedCultures;
+        CultureInfo _selectedCulture;
 
         CultureInfo Culture
         {
-            get => CultureInfo.CurrentCulture;
+            get
+            {
+                if (CultureInfo.CurrentCulture is null)
+                {
+                    if (JavaScript is IJSInProcessRuntime jsInProcessRuntime)
+                    {
+                        var browserCulture = jsInProcessRuntime.GetCulture();
+                        if (!string.IsNullOrWhiteSpace(browserCulture))
+                        {
+                            CultureInfo.CurrentCulture = new CultureInfo(browserCulture);
+                        }
+                    }
+                }
+
+                return CultureInfo.CurrentCulture;
+            }
             set
             {
-                if (CultureInfo.CurrentCulture != value)
+                if (value != null &&
+                    CultureInfo.CurrentCulture != value)
                 {
-                    var js = (IJSInProcessRuntime)JavaScript;
-                    js.InvokeVoid("blazorCulture.set", value.Name);
-
-                    Navigation.NavigateTo(Navigation.Uri, forceLoad: true);
+                    CultureInfo.CurrentCulture = value;
                 }
             }
         }
@@ -45,6 +60,16 @@ namespace IEvangelist.BlazingTranslations.Client.Shared
 
             _supportedCultures = supportedCultures.Where(
                 culture => azureCultures.Translation.ContainsKey(culture.TwoLetterISOLanguageName));
+        }
+
+        protected async Task SetCultureAsync()
+        {
+            Culture = _selectedCulture;
+            if (JavaScript is IJSInProcessRuntime jsInProcessRuntime)
+            {
+                await jsInProcessRuntime.SetCultureAsync(Culture);
+                Navigation.NavigateTo(Navigation.Uri, forceLoad: true);
+            }
         }
     }
 }

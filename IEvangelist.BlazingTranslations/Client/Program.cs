@@ -1,5 +1,7 @@
+using IEvangelist.BlazingTranslations.Client.Interop;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
 using Microsoft.JSInterop;
 using System;
 using System.Globalization;
@@ -14,7 +16,7 @@ namespace IEvangelist.BlazingTranslations.Client
         {
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
             builder.RootComponents.Add<App>("app");
-
+            builder.Logging.SetMinimumLevel(LogLevel.Debug);
             builder.Services.AddScoped(sp =>
                 new HttpClient
                 {
@@ -24,11 +26,11 @@ namespace IEvangelist.BlazingTranslations.Client
 
             await using var host = builder.Build();
 
-            var jsInterop = host.Services.GetRequiredService<IJSRuntime>();
-            var result = await jsInterop.InvokeAsync<string>("blazorCulture.get");
-            if (result != null)
+            var javaScript = host.Services.GetRequiredService<IJSRuntime>();
+            var browserCulture = await javaScript.GetCultureAsync();
+            if (browserCulture != null)
             {
-                var culture = new CultureInfo(result);
+                var culture = new CultureInfo(browserCulture);
                 CultureInfo.DefaultThreadCurrentCulture = culture;
                 CultureInfo.DefaultThreadCurrentUICulture = culture;
             }

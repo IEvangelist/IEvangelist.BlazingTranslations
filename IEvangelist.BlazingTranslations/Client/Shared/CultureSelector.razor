@@ -14,13 +14,12 @@
                 </button>
             </div>
             <div class="modal-body">
-                <select class="form-control" id="culture">
+                <select class="form-control" id="culture" @bind="_selectedCulture">
                     @if (_supportedCultures?.Any() ?? false)
                     {
                         @foreach (var culture in _supportedCultures.OrderBy(c => c.Name))
                         {
-                            <option selected="@(Culture == culture)"
-                                    @onclick="@(() => Culture = culture)">
+                            <option selected="@(Culture.LCID == culture.LCID)" value="@culture">
                                 @($"{culture.Name} - {culture.DisplayName}")
                             </option>
                         }
@@ -29,7 +28,7 @@
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary" data-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-primary" data-dismiss="modal" @onclick="SetCultureAsync">Ok</button>
             </div>
         </div>
     </div>
