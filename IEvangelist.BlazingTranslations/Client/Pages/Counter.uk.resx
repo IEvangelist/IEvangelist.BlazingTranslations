@@ -65,6 +65,6 @@
     <value>Поточна кількість:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Лічильник</value>
+    <value>Значення лічильника</value>
   </data>
 </root>

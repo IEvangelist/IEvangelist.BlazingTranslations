@@ -65,6 +65,6 @@
     <value>Aktuelle Zählung:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Zähler</value>
+    <value>Zählerwerte</value>
   </data>
 </root>

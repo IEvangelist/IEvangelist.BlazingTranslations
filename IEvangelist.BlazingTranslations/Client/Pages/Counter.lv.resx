@@ -65,6 +65,6 @@
     <value>Pašreizējais skaits:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Counter</value>
+    <value>Skaitītāja vērtības</value>
   </data>
 </root>

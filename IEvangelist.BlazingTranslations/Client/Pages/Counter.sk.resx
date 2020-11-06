@@ -65,6 +65,6 @@
     <value>Aktuálny počet:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Počítadlo</value>
+    <value>Hodnoty počítadla</value>
   </data>
 </root>

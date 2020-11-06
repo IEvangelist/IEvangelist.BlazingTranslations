@@ -65,6 +65,6 @@
     <value>Recompte actual:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Taulell</value>
+    <value>Valors del comptador</value>
   </data>
 </root>

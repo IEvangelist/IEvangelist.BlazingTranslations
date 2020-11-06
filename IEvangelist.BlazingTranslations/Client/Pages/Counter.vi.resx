@@ -65,6 +65,6 @@
     <value>Số lượng hiện tại:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Truy cập</value>
+    <value>Giá trị truy cập</value>
   </data>
 </root>

@@ -65,6 +65,6 @@
     <value>Текущ брой:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Counter</value>
+    <value>Стойности на брояча</value>
   </data>
 </root>

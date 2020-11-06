@@ -65,6 +65,6 @@
     <value>นับปัจจุบัน:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>เคาน์เตอร์</value>
+    <value>ค่าตัวนับ</value>
   </data>
 </root>

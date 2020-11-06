@@ -65,6 +65,6 @@
     <value>Conteggio corrente:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Contatore</value>
+    <value>Valori dei contatori</value>
   </data>
 </root>

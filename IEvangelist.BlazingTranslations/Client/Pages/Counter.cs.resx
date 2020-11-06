@@ -65,6 +65,6 @@
     <value>Aktuální počet:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Čítač</value>
+    <value>Hodnoty čítačů</value>
   </data>
 </root>

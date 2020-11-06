@@ -65,6 +65,6 @@
     <value>Huidige telling:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Teller</value>
+    <value>Tegenwaarden</value>
   </data>
 </root>

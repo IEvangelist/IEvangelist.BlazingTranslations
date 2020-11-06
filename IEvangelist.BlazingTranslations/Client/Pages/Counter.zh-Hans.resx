@@ -65,6 +65,6 @@
     <value>当前计数：</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>计数器</value>
+    <value>计数器值</value>
   </data>
 </root>

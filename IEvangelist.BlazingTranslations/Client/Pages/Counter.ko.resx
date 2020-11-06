@@ -65,6 +65,6 @@
     <value>현재 개수:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>카운터</value>
+    <value>카운터 값</value>
   </data>
 </root>

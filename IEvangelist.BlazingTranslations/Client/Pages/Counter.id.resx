@@ -65,6 +65,6 @@
     <value>Hitungan saat ini:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Counter</value>
+    <value>Nilai penghitung</value>
   </data>
 </root>
