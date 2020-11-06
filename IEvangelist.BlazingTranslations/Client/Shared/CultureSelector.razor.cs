@@ -17,7 +17,6 @@ namespace IEvangelist.BlazingTranslations.Client.Shared
         [Inject] HttpClient Http { get; set; }
 
         IEnumerable<CultureInfo> _supportedCultures;
-        CultureInfo _selectedCulture;
 
         CultureInfo Culture
         {
@@ -36,8 +35,6 @@ namespace IEvangelist.BlazingTranslations.Client.Shared
 
         protected override async Task OnInitializedAsync()
         {
-            _selectedCulture = Culture;
-
             var azureCultures =
                 await Http.GetFromJsonAsync<AzureCultures>(
                     "api/cultures",

@@ -1,6 +1,6 @@
 ﻿<button type="button" class="btn btn-primary" data-toggle="modal"
         data-target="#exampleModalScrollable">
-    @($"{C ulture.Name} - {Culture.DisplayName}")
+    @($"{Culture.Name} - {Culture.DisplayName}")
 </button>
 
 <div class="modal fade" id="exampleModalScrollable" tabindex="-1" role="dialog"
@@ -20,7 +20,7 @@
                         @foreach (var culture in _supportedCultures.OrderBy(c => c.Name))
                         {
                             <option selected="@(Culture == culture)"
-                                    @onclick="@(() => _selectedCulture = culture)">
+                                    @onclick="@(() => Culture = culture)">
                                 @($"{culture.Name} - {culture.DisplayName}")
                             </option>
                         }
@@ -29,8 +29,7 @@
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary" data-dismiss="modal"
-                        @onclick="@(() => Culture = _selectedCulture)">Ok</button>
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Ok</button>
             </div>
         </div>
     </div>
