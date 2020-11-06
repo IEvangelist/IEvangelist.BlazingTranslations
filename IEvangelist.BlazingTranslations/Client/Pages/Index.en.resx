@@ -121,7 +121,7 @@
     <value>Welcome to your new app.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Hello, world!</value>
+    <value>Hello, world! I'm thrilled to see you.</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>How is Blazor working for you?</value>
