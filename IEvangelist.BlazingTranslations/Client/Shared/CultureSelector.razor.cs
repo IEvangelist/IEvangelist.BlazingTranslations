@@ -1,6 +1,7 @@
 ﻿using IEvangelist.BlazingTranslations.Client.Interop;
 using IEvangelist.BlazingTranslations.Shared;
 using Microsoft.AspNetCore.Components;
+using Microsoft.Extensions.Localization;
 using Microsoft.JSInterop;
 using System.Collections.Generic;
 using System.Globalization;
@@ -13,6 +14,7 @@ namespace IEvangelist.BlazingTranslations.Client.Shared
 {
     public partial class CultureSelector
     {
+        [Inject] IStringLocalizer<CultureSelector> Localizer { get; set; }
         [Inject] IJSRuntime JavaScript { get; set; }
         [Inject] NavigationManager Navigation { get; set; }
         [Inject] HttpClient Http { get; set; }
