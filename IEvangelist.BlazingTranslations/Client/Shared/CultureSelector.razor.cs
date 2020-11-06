@@ -70,7 +70,7 @@ namespace IEvangelist.BlazingTranslations.Client.Shared
             if (JavaScript is IJSInProcessRuntime jsInProcessRuntime)
             {
                 await jsInProcessRuntime.SetCultureAsync(Culture);
-                //Navigation.NavigateTo(Navigation.Uri, forceLoad: true);
+                Navigation.NavigateTo(Navigation.Uri, forceLoad: true);
             }
         }
     }
