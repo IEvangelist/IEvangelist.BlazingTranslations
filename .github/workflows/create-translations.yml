@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-    - '**.resx'
+    - '**.en.resx'
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
 
       - name: Resource translator
         uses: IEvangelist/resource-translator@v2
-        if: ${{ github.actor != 'github-actions[bot]' }}
+        if: ${{ containers(github.actor, 'github') }}
         with:
           subscriptionKey: ${{ secrets.AZURE_TRANSLATOR_SUBSCRIPTION_KEY }}
           endpoint: ${{ secrets.AZURE_TRANSLATOR_ENDPOINT }}
