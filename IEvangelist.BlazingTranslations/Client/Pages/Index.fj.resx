@@ -62,7 +62,7 @@
     <value>Kidavaki ki na nomu app vou.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Ni bula, vuravura! Au marau ni'u raici kemuni.</value>
+    <value>Ni bula, vuravura!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>E cakacaka vakacava vei iko na Blazor?</value>

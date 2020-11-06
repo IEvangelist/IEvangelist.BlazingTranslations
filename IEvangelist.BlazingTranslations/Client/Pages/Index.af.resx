@@ -62,7 +62,7 @@
     <value>Welkom by jou nuwe program.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Hallo wêreld! Ek is opgewonde om jou te sien.</value>
+    <value>Hallo wêreld!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Hoe werk Baadjie vir jou?</value>

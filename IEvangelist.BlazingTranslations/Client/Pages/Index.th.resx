@@ -62,7 +62,7 @@
     <value>ยินดีต้อนรับสู่แอพใหม่ของคุณ</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>หวัดดีชาวโลก! ฉันตื่นเต้นที่ได้พบคุณ</value>
+    <value>หวัดดีชาวโลก!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>บลาซอร์ทํางานให้คุณเป็นยังไงบ้าง</value>

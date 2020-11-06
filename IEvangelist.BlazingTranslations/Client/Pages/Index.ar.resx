@@ -62,7 +62,7 @@
     <value>مرحباً بك في تطبيقك الجديد.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>مرحبا بالعالم! أنا سعيد لرؤيتك</value>
+    <value>مرحبا بالعالم!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>كيف يعمل بلازور لديك؟</value>

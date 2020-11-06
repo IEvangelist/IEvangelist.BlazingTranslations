@@ -62,7 +62,7 @@
     <value>Merħba fl-applikazzjoni l-ġdida tiegħek.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Bonġu dinja! Jien ferħan li narakom.</value>
+    <value>Bonġu dinja!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Kif jaħdem Blazor għalik?</value>

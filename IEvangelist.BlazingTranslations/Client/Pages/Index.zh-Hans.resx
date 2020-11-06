@@ -62,7 +62,7 @@
     <value>欢迎来到你的新应用程序。</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>世界您好！见到你我非常激动。</value>
+    <value>世界您好！</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>布拉佐是如何为你工作的？</value>

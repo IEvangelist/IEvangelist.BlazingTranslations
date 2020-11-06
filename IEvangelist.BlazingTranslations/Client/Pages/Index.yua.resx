@@ -62,7 +62,7 @@
     <value>Bienvenido ti' u túumben ka'anatako'ob.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Bix anikech noj kaab! In encantada u wilech.</value>
+    <value>Bix anikech noj kaab!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Wáaj bix u meyaj Blazor teechi'.</value>

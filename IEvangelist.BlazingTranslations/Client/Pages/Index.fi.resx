@@ -62,7 +62,7 @@
     <value>Tervetuloa uuteen sovellukseesi.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Moi maailma! Olen innoissani nähdessäni sinut.</value>
+    <value>Moi maailma!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Miten Blazor voi?</value>

@@ -62,7 +62,7 @@
     <value>Chào mừng bạn đến với ứng dụng mới của bạn.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Chào thế giới! Tôi rất vui được gặp anh.</value>
+    <value>Chào thế giới!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Blazor làm việc cho anh thế nào?</value>

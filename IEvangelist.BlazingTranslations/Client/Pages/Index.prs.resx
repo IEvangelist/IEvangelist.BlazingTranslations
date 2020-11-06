@@ -62,7 +62,7 @@
     <value>به برنامه جدید خود خوش آمدید.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>سلام دنیا! از د دیدنت هیجان زده شدم</value>
+    <value>سلام دنیا!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>بلازور چطور برات کار ميکنه؟</value>

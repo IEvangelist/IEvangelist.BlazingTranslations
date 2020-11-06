@@ -62,7 +62,7 @@
     <value>Жаңа бағдарламаға қош келдіңіз.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Сәлемет пе әлем! Мен сені көріп отырмын.</value>
+    <value>Сәлемет пе әлем!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Сіз үшін Блазор қалай жұмыс істейді?</value>

@@ -62,7 +62,7 @@
     <value>Manava i roto i ta outou faanahoraa api.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Aroha, e te ao nei! Ua anaanatae roa vau i te ite ia oe.</value>
+    <value>Aroha, e te ao nei!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Nahea te Blazor i te ohipa no outou?</value>

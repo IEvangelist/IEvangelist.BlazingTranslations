@@ -62,7 +62,7 @@
     <value>ʻOku talitali lelei koe ki hoʻo app foʻou.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Malo e lelei, mamani! ʻOku ou fiefia ke sio atu kiate koe.</value>
+    <value>Malo e lelei, mamani!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>ʻOku ngaue fefe ʻa e Blazor maʻau?</value>

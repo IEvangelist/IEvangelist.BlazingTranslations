@@ -62,7 +62,7 @@
     <value>Benvinguts a la nova aplicació.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Hola, món! Estic encantat de veure't.</value>
+    <value>Hola, món!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Com funciona En Blazor per a tu?</value>

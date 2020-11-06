@@ -62,7 +62,7 @@
     <value>ברוך הבא לאפליקציה החדשה שלך.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>שלום לך עולם! אני נרגש לראותאותך.</value>
+    <value>שלום לך עולם!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>איך בלזור עובד בשבילך?</value>

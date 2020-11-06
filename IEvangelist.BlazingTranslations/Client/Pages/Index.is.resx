@@ -62,7 +62,7 @@
     <value>Velkomin í nýja forritið þitt.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Halló heimur! Það er spennandi að sjá þig.</value>
+    <value>Halló heimur!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Hvernig virkar Blazor fyrir þig?</value>

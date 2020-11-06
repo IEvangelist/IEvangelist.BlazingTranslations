@@ -62,7 +62,7 @@
     <value>Esiet sveicināts jaunajā lietotnē!</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>sveika, pasaule! Es esmu sajūsmināts redzēt jūs.</value>
+    <value>sveika, pasaule!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Kā Blazor strādā jūsu vietā?</value>

@@ -62,7 +62,7 @@
     <value>Maligayang pagdating sa iyong bagong app.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Hello, mundo! Natutuwa akong makita ka.</value>
+    <value>Hello, mundo!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Paano nagtatrabaho si Blazor para sa iyo?</value>

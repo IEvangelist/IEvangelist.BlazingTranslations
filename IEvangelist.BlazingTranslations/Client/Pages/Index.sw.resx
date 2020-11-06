@@ -62,7 +62,7 @@
     <value>Karibu kwenye programu yako mpya.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Vipi dunia! Nina furaha kukuona.</value>
+    <value>Vipi dunia!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Blazor anakufanyia kazi vipi?</value>

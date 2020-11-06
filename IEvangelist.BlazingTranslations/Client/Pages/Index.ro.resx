@@ -62,7 +62,7 @@
     <value>Bine ați venit la noua aplicație.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>bună oameni buni! Sunt încântat să te văd.</value>
+    <value>bună oameni buni!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>lucrează Blazor pentru tine?</value>

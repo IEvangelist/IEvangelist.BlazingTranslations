@@ -62,7 +62,7 @@
     <value>Croeso i'ch ap newydd.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Helo byd! Dw i wrth fy modd yn eich gweld chi.</value>
+    <value>Helo byd!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Sut mae Blazor yn gweithio i chi?</value>

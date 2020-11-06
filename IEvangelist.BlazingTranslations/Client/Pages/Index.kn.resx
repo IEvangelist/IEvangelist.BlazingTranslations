@@ -62,7 +62,7 @@
     <value>ನಿಮ್ಮ ಹೊಸ ಅಪ್ಲಿಗೆ ಸ್ವಾಗತ.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>ಹಲೋ ಪ್ರಪಂಚ! ನಿನ್ನನ್ನು ನೋಡಿ ನನಗೆ ರೋಮಾಂಚನವಾಗಿದೆ.</value>
+    <value>ಹಲೋ ಪ್ರಪಂಚ!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>ಬ್ಲೇಜರ್ ನಿಮಗಾಗಿ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ?</value>

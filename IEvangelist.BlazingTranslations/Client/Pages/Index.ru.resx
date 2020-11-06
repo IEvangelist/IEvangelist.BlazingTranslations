@@ -62,7 +62,7 @@
     <value>Добро пожаловать в новое приложение.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Всем привет! Я очень рад тебя видеть.</value>
+    <value>Всем привет!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Как Блазор работает на вас?</value>

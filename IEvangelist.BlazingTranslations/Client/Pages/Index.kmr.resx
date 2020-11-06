@@ -62,7 +62,7 @@
     <value>Tu bi xêr hatî applêta xwe ya nû.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Roşbaş dinya! Ez gelek bi kelecan im ku te dibînim.</value>
+    <value>Roşbaş dinya!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Blazor ji bo te çawa dixebite?</value>

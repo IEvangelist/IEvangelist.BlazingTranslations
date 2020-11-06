@@ -62,7 +62,7 @@
     <value>Velkommen til den nye appen.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>hallo verden! Jeg er glad for å se deg.</value>
+    <value>hallo verden!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Hvordan fungerer Blazor for deg?</value>

@@ -62,7 +62,7 @@
     <value>Καλώς ήρθατε στη νέα σας εφαρμογή.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Γεια σου κόσμε! Χαίρομαι που σε βλέπω.</value>
+    <value>Γεια σου κόσμε!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Πώς δουλεύει ο Μπλάζορ για σένα;</value>

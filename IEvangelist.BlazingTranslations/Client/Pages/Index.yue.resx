@@ -62,7 +62,7 @@
     <value>歡迎來到你嘅新應用程序。</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>世界您好! 見到你我非常激動。</value>
+    <value>世界您好!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>布拉佐係點樣為你工作嘅?</value>

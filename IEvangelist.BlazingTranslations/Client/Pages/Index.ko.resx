@@ -62,7 +62,7 @@
     <value>새 앱에 오신 것을 환영합니다.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>전 세계 여러분 안녕하세요! 여러분을 만나게 되어 기쁩니다.</value>
+    <value>전 세계 여러분 안녕하세요!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>블레이저는 여러분을 위해 어떻게 일하고 있습니까?</value>

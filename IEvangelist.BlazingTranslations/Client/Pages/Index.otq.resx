@@ -62,7 +62,7 @@
     <value>Ar hogu̲ntso̲ho̲ ya 'ra'yo ár nt'ot'e.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Hadi ximha̲i! Di encantada ar nu'i.</value>
+    <value>Hadi ximha̲i!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>¿Tema funciona Blazor pa nu'i?</value>

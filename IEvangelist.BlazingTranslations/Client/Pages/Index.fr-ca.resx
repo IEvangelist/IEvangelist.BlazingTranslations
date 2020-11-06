@@ -62,7 +62,7 @@
     <value>Bienvenue sur votre nouvelle application.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Salut tout le monde! Je suis ravi de te voir.</value>
+    <value>Salut tout le monde!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Comment Blazor travaille-t-il pour vous ?</value>

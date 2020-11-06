@@ -62,7 +62,7 @@
     <value>Üdvözöljük az új alkalmazásban.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>helló világ! Örülök, hogy látlak.</value>
+    <value>helló világ!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Hogy működik Blazor?</value>

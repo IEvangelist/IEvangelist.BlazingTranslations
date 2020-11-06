@@ -62,7 +62,7 @@
     <value>Fáilte chuig d'fheidhmchlár nua.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Haigh ansin! Tá áthas orm tú a fheiceáil.</value>
+    <value>Haigh ansin!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Cén chaoi a bhfuil Blazor ag obair duit?</value>

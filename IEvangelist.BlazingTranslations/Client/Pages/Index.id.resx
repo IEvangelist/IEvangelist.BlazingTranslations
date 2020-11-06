@@ -62,7 +62,7 @@
     <value>Selamat datang di aplikasi baru Anda.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Halo dunia! Aku senang melihatmu.</value>
+    <value>Halo dunia!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Bagaimana Blazor bekerja untuk Anda?</value>

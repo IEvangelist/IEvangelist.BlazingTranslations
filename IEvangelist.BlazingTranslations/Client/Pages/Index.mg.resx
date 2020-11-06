@@ -62,7 +62,7 @@
     <value>Tonga soa ato amin' ny application vaovao.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Manahoana, tontolo! Tena faly aho mahita anao.</value>
+    <value>Manahoana, tontolo!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Ahoana no fomba Blazor miasa ho anao?</value>

@@ -62,7 +62,7 @@
     <value>Sveiki atvykę į naują programą.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>sveikas, pasauli! Man malonu tave matyti.</value>
+    <value>sveikas, pasauli!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Kaip Blazor dirba jums?</value>

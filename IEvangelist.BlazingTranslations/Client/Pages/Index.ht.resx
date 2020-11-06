@@ -62,7 +62,7 @@
     <value>Byenveni nan nouvo app ou a.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Bonjou mond la! Mwen kontan we ou.</value>
+    <value>Bonjou mond la!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Kijan Blazor ap travay pou ou?</value>

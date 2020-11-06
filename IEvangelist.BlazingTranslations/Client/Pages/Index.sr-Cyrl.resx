@@ -62,7 +62,7 @@
     <value>Добро дошли у нову апликацију.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Здраво свете! Одушевљен сам што вас видим.</value>
+    <value>Здраво свете!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Како Блазор ради за тебе?</value>

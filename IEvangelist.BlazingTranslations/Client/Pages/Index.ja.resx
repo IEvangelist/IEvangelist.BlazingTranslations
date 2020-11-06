@@ -62,7 +62,7 @@
     <value>新しいアプリへようこそ。</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>ハローワールド！お会いできてうれしいです。</value>
+    <value>ハローワールド！</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>ブレイザはどのようにあなたのために働いていますか?</value>

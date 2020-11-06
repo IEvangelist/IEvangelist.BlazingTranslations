@@ -62,7 +62,7 @@
     <value>Txais tos koj app tshiab.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Nyob zoo, lub ntiaj teb! Kuv tabtom tsos saib koj.</value>
+    <value>Nyob zoo, lub ntiaj teb!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Blazor ua hauj lwm rau koj?</value>

@@ -62,7 +62,7 @@
     <value>Dobrodošli v novi aplikaciji.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>pozdravljeni vsi skupaj! Vesel sem, da te vidim.</value>
+    <value>pozdravljeni vsi skupaj!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Kako blazor dela za vas?</value>

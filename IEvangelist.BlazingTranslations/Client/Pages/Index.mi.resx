@@ -62,7 +62,7 @@
     <value>Nau mai ki tō taupānga hōu.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Kia ora e te ao whānui.! Kai te hiamo ahau kia kite i a koe.</value>
+    <value>Kia ora e te ao whānui.!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>He pēhea te mahi a Blazor mōu?</value>

@@ -62,7 +62,7 @@
     <value>Yeni uygulamanıza hoş geldiniz.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Merhaba Dünya! Seni gördüğüme çok sevindim.</value>
+    <value>Merhaba Dünya!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
     <value>Blazor senin için nasıl çalışıyor?</value>
