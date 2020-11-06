@@ -58,6 +58,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AndTellUsWhatYouThink" xml:space="preserve">
+    <value>અને અમને જણાવો કે તમે શું વિચારો છો.</value>
+  </data>
   <data name="BriefSurvey" xml:space="preserve">
     <value>સંક્ષિપ્ત સર્વેક્ષણ</value>
   </data>

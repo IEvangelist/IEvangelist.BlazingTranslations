@@ -58,6 +58,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AndTellUsWhatYouThink" xml:space="preserve">
+    <value>그리고 당신이 어떻게 생각하는지 알려주십시오.</value>
+  </data>
   <data name="BriefSurvey" xml:space="preserve">
     <value>간략한 설문 조사</value>
   </data>
