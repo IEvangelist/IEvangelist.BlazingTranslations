@@ -15,6 +15,7 @@ jobs:
 
       - name: Resource translator
         uses: IEvangelist/resource-translator@v2
+        if: ${{ github.actor != 'github-actions[bot]' }}
         with:
           subscriptionKey: ${{ secrets.AZURE_TRANSLATOR_SUBSCRIPTION_KEY }}
           endpoint: ${{ secrets.AZURE_TRANSLATOR_ENDPOINT }}

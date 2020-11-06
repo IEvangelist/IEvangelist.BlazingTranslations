@@ -181,3 +181,87 @@ app {
         display: block;
     }
 }
+
+.grid {
+    display: grid;
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+}
+
+.grid-content {
+    grid-template-areas: '. . .' '. center .' '. . .';
+}
+
+.loading {
+    margin: auto;
+    color: whitesmoke;
+}
+
+.grid-center {
+    padding-top: 50px;
+    grid-area: center;
+    align-content: center;
+}
+
+.spinner {
+    margin: 100px auto;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+    font-size: 10px;
+}
+
+    .spinner > div {
+        background-color: azure;
+        height: 100%;
+        width: 12px;
+        display: inline-block;
+        -webkit-animation: sk-stretchdelay 1.2s infinite ease-in-out;
+        animation: sk-stretchdelay 1.2s infinite ease-in-out;
+    }
+
+    .spinner .rect2 {
+        -webkit-animation-delay: -1.1s;
+        animation-delay: -1.1s;
+    }
+
+    .spinner .rect3 {
+        -webkit-animation-delay: -1.0s;
+        animation-delay: -1.0s;
+    }
+
+    .spinner .rect4 {
+        -webkit-animation-delay: -0.9s;
+        animation-delay: -0.9s;
+    }
+
+    .spinner .rect5 {
+        -webkit-animation-delay: -0.8s;
+        animation-delay: -0.8s;
+    }
+
+@-webkit-keyframes sk-stretchdelay {
+    0%, 40%, 100% {
+        -webkit-transform: scaleY(0.4)
+    }
+
+    20% {
+        -webkit-transform: scaleY(1.0)
+    }
+}
+
+@keyframes sk-stretchdelay {
+    0%, 40%, 100% {
+        transform: scaleY(0.4);
+        -webkit-transform: scaleY(0.4);
+    }
+
+    20% {
+        transform: scaleY(1.0);
+        -webkit-transform: scaleY(1.0);
+    }
+}
