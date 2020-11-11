@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace IEvangelist.BlazingTranslations.Client
 {
-    public class Program
+    class Program
     {
-        public static async Task Main(string[] args)
+        static async Task Main(string[] args)
         {
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
             builder.RootComponents.Add<App>("app");

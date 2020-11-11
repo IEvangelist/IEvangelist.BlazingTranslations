@@ -57,11 +57,10 @@ namespace IEvangelist.BlazingTranslations.Client.Shared
                     "api/cultures",
                     DefaultOptions.SerializerOptions);
 
-            var supportedCultures =
-                CultureInfo.GetCultures(CultureTypes.SpecificCultures);
-
-            _supportedCultures = supportedCultures.Where(
-                culture => azureCultures.Translation.ContainsKey(culture.TwoLetterISOLanguageName));
+            _supportedCultures =
+                CultureInfo.GetCultures(CultureTypes.SpecificCultures)
+                .Where(culture =>
+                    azureCultures.Translation.ContainsKey(culture.TwoLetterISOLanguageName));
         }
 
         protected async Task SetCultureAsync()
