@@ -1,5 +1,6 @@
 ﻿using IEvangelist.BlazingTranslations.Shared;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 using System;
 using System.Net.Http;
 using System.Net.Http.Json;
@@ -14,21 +15,25 @@ namespace IEvangelist.BlazingTranslations.Server.Controllers
     public class CulturesController : ControllerBase
     {
         readonly IHttpClientFactory _httpClientFactory;
+        readonly IMemoryCache _cache;
 
-        public CulturesController(IHttpClientFactory httpClientFactory) =>
-            _httpClientFactory = httpClientFactory;
+        public CulturesController(
+            IHttpClientFactory httpClientFactory,
+            IMemoryCache cache) =>
+            (_httpClientFactory, _cache) = (httpClientFactory, cache);
 
         [HttpGet, Produces("application/json")]
-        public async Task<AzureCultures> Get()
-        {
-            using var client = _httpClientFactory.CreateClient();
-            client.BaseAddress = new Uri("https://api.cognitive.microsofttranslator.com");
+        public Task<AzureCultures> Get() =>
+            _cache.GetOrCreateAsync(nameof(CulturesController), async _ =>
+            {
+                using var client = _httpClientFactory.CreateClient();
+                client.BaseAddress = new Uri("https://api.cognitive.microsofttranslator.com");
 
-            var cultutes = await client.GetFromJsonAsync<AzureCultures>(
-                "languages?api-version=3.0&scope=translation",
-                DefaultOptions.SerializerOptions);
+                var cultutes = await client.GetFromJsonAsync<AzureCultures>(
+                    "languages?api-version=3.0&scope=translation",
+                    DefaultOptions.SerializerOptions);
 
-            return cultutes;
-        }
+                return cultutes;
+            });
     }
 }

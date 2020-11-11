@@ -3,7 +3,10 @@
 
 <h1>@Localizer["CounterTitle"]</h1>
 
-<p>@Localizer["CounterCount"] @_currentCount</p>
+<p>@Localizer["CounterCount"] 
+    <input type="number" @bind="_currentCount" readonly disabled
+           style="border: none; background-color: transparent;" />
+    </p>
 
 <button class="btn btn-primary" @onclick="IncrementCount">@Localizer["ClickMe"]</button>
 

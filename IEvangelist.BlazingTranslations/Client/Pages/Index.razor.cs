@@ -8,31 +8,8 @@ namespace IEvangelist.BlazingTranslations.Client.Pages
         [Inject]
         public IStringLocalizer<Index> Localizer { get; set; }
 
-        public string SurveyTitle
-        {
-            get
-            {
-                var surveyTitle = Localizer[nameof(SurveyTitle)];
-                return surveyTitle;
-            }
-        }
-
-        public string Greeting
-        {
-            get
-            {
-                var greeting = Localizer[nameof(Greeting)];
-                return greeting;
-            }
-        }
-
-        public string HelloWorld
-        {
-            get
-            {
-                var helloWorld = Localizer[nameof(HelloWorld)];
-                return helloWorld;
-            }
-        }
+        public string SurveyTitle => Localizer[nameof(SurveyTitle)];
+        public string Greeting => Localizer[nameof(Greeting)];
+        public string HelloWorld => Localizer[nameof(HelloWorld)];
     }
 }
