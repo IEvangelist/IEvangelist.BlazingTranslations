@@ -13,14 +13,17 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Resource translator
-        uses: IEvangelist/resource-translator@v2
-        if: ${{ contains(github.actor, 'github') }}
+      - name: resource-translator
+        uses: IEvangelist/resource-translator@v2.0.1
         with:
           subscriptionKey: ${{ secrets.AZURE_TRANSLATOR_SUBSCRIPTION_KEY }}
           endpoint: ${{ secrets.AZURE_TRANSLATOR_ENDPOINT }}
           region: ${{ secrets.AZURE_TRANSLATOR_REGION }}
           sourceLocale: 'en'
 
-      - name: Create pull request
+      - name: create-pull-request
         uses: peter-evans/create-pull-request@v3.4.1
+        if: ${{ steps.resource-translator.outputs.has-new-translations }}
+        with:
+          title: ${{ steps.resource-translator.outputs.summary-title }}
+          commit-message: ${{ steps.resource-translator.outputs.summary-details }}
