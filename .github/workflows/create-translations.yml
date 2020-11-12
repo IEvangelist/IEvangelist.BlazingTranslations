@@ -27,4 +27,4 @@ jobs:
         if: ${{ steps.resource-translator.outputs.has-new-translations }} == 'true'
         with:
           title: '${{ steps.resource-translator.outputs.summary-title }}'
-          commit-message: '${{ steps.resource-translator.outputs.summary-details }}'
+          body: '${{ steps.resource-translator.outputs.summary-details }}'
