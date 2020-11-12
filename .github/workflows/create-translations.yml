@@ -13,7 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: resource-translator
+      - name: Resource translator
+        id: resource-translator
         uses: IEvangelist/resource-translator@v2.0.1
         with:
           subscriptionKey: ${{ secrets.AZURE_TRANSLATOR_SUBSCRIPTION_KEY }}
@@ -21,7 +22,7 @@ jobs:
           region: ${{ secrets.AZURE_TRANSLATOR_REGION }}
           sourceLocale: 'en'
 
-      - name: create-pull-request
+      - name: Create pull request
         uses: peter-evans/create-pull-request@v3.4.1
         if: ${{ steps.resource-translator.outputs.has-new-translations }} == 'true'
         with:
