@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Nyem kuv</value>
+    <value>Increment yog nias no khawm no khawm</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>Tam sim no suav:</value>

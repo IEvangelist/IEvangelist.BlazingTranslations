@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Beni tıklatın</value>
+    <value>Bu düğmeye basarak artış</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>Geçerli sayı:</value>

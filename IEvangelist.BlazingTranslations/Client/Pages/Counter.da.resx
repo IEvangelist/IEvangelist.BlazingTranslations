@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Klik på mig</value>
+    <value>Forøg ved at trykke på denne knap</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>Aktuelt antal:</value>

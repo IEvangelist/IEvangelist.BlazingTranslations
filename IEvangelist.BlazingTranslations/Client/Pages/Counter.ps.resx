@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>زما کلیک وکړی</value>
+    <value>د دې تڼۍ په زور اچولو سره زیاتوالی</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>اوسنۍ شمېرنه :</value>
