@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Greeting" xml:space="preserve">
-    <value>మీ కొత్త యాప్ కు స్వాగతం.</value>
+    <value>تنتظرنا تجربة مذهلة، ونحن سعداء لمشاركتها معك.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>హలో వరల్డ్!</value>
+    <value>مرحبا بالعالم!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
-    <value>బ్లేజర్ మీ కొరకు ఏవిధంగా పనిచేస్తుంది?</value>
+    <value>كيف يعمل بلازور لديك؟</value>
   </data>
 </root>

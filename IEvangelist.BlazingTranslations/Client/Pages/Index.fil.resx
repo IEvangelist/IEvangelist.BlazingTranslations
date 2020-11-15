@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Greeting" xml:space="preserve">
-    <value>Maligayang pagdating sa iyong bagong app.</value>
+    <value>تنتظرنا تجربة مذهلة، ونحن سعداء لمشاركتها معك.</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
-    <value>Hello, mundo!</value>
+    <value>مرحبا بالعالم!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
-    <value>Paano nagtatrabaho si Blazor para sa iyo?</value>
+    <value>كيف يعمل بلازور لديك؟</value>
   </data>
 </root>
