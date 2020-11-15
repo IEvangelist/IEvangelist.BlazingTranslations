@@ -118,12 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Greeting" xml:space="preserve">
-    <value>An amazing experience awaits and we're thrilled to share it with you.</value>
+    <value>Welcome my friends, we happily greet you!</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
     <value>Hello, world!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
-    <value>How is Blazor working for you?</value>
+    <value>How is Blazor working for you? We want to know.</value>
   </data>
 </root>
