@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>د دې تڼۍ په زور اچولو سره زیاتوالی</value>
+    <value>د زیاتوالی لپاره په دې تڼۍ کلیک وکړئ</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>اوسنۍ شمېرنه :</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>د ارزښتونو په وړاندې</value>
+    <value>د ( په ادنی ډول )</value>
   </data>
 </root>

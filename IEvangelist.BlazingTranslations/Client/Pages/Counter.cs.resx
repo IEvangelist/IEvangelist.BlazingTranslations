@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Přírůstek stisknutím tohoto tlačítka</value>
+    <value>Kliknutím na toto tlačítko se zvýší</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>Aktuální počet:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Hodnoty čítačů</value>
+    <value>Příklad čítače (s vazbou)</value>
   </data>
 </root>

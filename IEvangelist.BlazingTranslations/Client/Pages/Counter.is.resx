@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Hækka með því að ýta á þennan hnapp</value>
+    <value>Smelltu á þennan hnapp til að hækka</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>Núverandi talning:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Teljaragildi</value>
+    <value>Teljaradæmi (með bindingu)</value>
   </data>
 </root>

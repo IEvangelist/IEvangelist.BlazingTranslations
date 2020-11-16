@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Huri Ahurea</value>
+    <value>Hurihia te ahurea kua tīpakohia?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Katia</value>
+    <value>Whakakore</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Ka pai</value>
+    <value>Whakaū</value>
   </data>
 </root>

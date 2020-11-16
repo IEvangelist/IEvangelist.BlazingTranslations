@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Povečevanje s pritiskom na ta gumb</value>
+    <value>Kliknite na ta gumb za povečanje</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>Trenutno število:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Vrednosti števcev</value>
+    <value>Primer števca (z vezavo)</value>
   </data>
 </root>

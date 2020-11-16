@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Increment amin' ny alalan' ny fanaraha-maso ity bokotra ity</value>
+    <value>Tsindrio ity bokotra ity mba increment</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Ankehitriny dia manisa:</value>
+    <value>Amin' ny alalan' ny fanisana ankehitriny:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Fandoavam-ireo soatoavina</value>
+    <value>Ohatra fandoavam-(miaraka amin' ny mamatotra)</value>
   </data>
 </root>

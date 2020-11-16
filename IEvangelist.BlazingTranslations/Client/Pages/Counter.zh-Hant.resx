@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>按此按鈕增加</value>
+    <value>按下此按鈕以遞增</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>目前計數：</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>計數器值</value>
+    <value>計數器範例 （帶繫結）</value>
   </data>
 </root>

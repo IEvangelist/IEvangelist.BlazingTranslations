@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Greeting" xml:space="preserve">
-    <value>'N ongelooflike ervaring wag en ons is opgewonde om dit te deel met jou.</value>
+    <value>Welkom my vriende, ons groet jou gelukkig!</value>
   </data>
   <data name="HelloWorld" xml:space="preserve">
     <value>Hallo wêreld!</value>
   </data>
   <data name="SurveyTitle" xml:space="preserve">
-    <value>Hoe werk Baadjie vir jou?</value>
+    <value>Hoe werk Baadjie vir jou? Ons wil weet.</value>
   </data>
 </root>

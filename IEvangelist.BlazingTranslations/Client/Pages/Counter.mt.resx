@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Żieda billi tagħfas din il-buttuna</value>
+    <value>Ikklikkja fuq din il-buttuna biex iżżid</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Għadd kurrenti:</value>
+    <value>L-għadd attwali:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Valuri tal-apparat għall-għadd</value>
+    <value>Apparat għall-Għadd (b'irbit)</value>
   </data>
 </root>

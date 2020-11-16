@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Canvia la cultura</value>
+    <value>Canviar la cultura seleccionada?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Tancar</value>
+    <value>Cancel·lar</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Correcte</value>
+    <value>Confirmar</value>
   </data>
 </root>

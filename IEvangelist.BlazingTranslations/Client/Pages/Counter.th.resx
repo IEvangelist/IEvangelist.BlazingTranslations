@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>เพิ่มโดยการกดปุ่มนี้</value>
+    <value>คลิกที่ปุ่มนี้เพื่อเพิ่ม</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>นับปัจจุบัน:</value>
+    <value>จํานวนปัจจุบัน:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>ค่าตัวนับ</value>
+    <value>ตัวอย่างตัวนับ (มีการรวม)</value>
   </data>
 </root>

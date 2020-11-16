@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Badilisha Utamaduni</value>
+    <value>Badilisha utamaduni ulioteuliwa?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Funga</value>
+    <value>Katisha</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Sawa kabisa</value>
+    <value>Thibitisha</value>
   </data>
 </root>

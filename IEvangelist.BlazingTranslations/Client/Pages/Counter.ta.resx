@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>இந்த பொத்தானை அழுத்தி, increment</value>
+    <value>இந்த பொத்தானை கிளிக் செய்து increment</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>தற்போதைய எண்ணிக்கை:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>எதிர் மதிப்புகள்</value>
+    <value>கவுண்டர் உதாரணம் (பைண்டிங்உடன்)</value>
   </data>
 </root>

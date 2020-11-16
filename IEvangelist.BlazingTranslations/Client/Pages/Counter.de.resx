@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Inkrement durch Drücken dieser Taste</value>
+    <value>Klicken Sie auf diese Schaltfläche, um sie zu erhöhen</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Aktuelle Zählung:</value>
+    <value>Die aktuelle Anzahl:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Zählerwerte</value>
+    <value>Zählerbeispiel (mit Bindung)</value>
   </data>
 </root>

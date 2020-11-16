@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Faaopoopoga i le oomiina o le faamau lenei</value>
+    <value>Kiliki i luga o le faamau lenei i le increment</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Faitauga o i ai nei:</value>
+    <value>O le faitauga o loo i ai nei:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Tulaga faatauaina o le fata</value>
+    <value>Faataitaiga o le Fata (ma le fusifusia)</value>
   </data>
 </root>

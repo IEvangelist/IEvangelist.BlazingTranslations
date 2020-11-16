@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>اس بٹن کو دبانے سے اضافہ</value>
+    <value>اضافہ کرنے کے لئے اس بٹن پر کلک کریں</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>حالیہ شمار:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>انسداد اقدار</value>
+    <value>انسداد کی مثال (پابند کے ساتھ)</value>
   </data>
 </root>

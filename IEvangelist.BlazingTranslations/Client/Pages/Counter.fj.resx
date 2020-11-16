@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Increment ena kena toso tiko na ibulukau oqo</value>
+    <value>Kiliki ena bulukau oqo mo increment</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Wili ena gauna oqo:</value>
+    <value>Na kena wiliki oqo:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Yavunibula ni vatavata</value>
+    <value>Ivakaraitaki ni vatavata (kei na veivauci)</value>
   </data>
 </root>

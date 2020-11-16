@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>文化の変化</value>
+    <value>選択したカルチャを変更しますか?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>閉じる</value>
+    <value>キャンセル</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>わかりました</value>
+    <value>確認</value>
   </data>
 </root>

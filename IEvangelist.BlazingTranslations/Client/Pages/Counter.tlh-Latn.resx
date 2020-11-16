@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>dotlhchaj lutu'lu'chugh,</value>
+    <value>DaH QongDaj Sengvam, tIchtaHvIS</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>'ach bIH QaQqu'law'.</value>
+    <value>SuvwI'choH suvwI'vo' je tlhogh.</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>vebHa'moH</value>
+    <value>tugh quvHa'moH choraQ.</value>
   </data>
 </root>

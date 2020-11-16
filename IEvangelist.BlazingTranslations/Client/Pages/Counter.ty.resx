@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Increment na roto i te ru i teie pitopito</value>
+    <value>A pata i nia i teie pitopito no te increment</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>A taio i teie nei:</value>
+    <value>Teie te taio nei:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Patoi mau faufaa</value>
+    <value>Hioraa patoi (na roto i te taamu)</value>
   </data>
 </root>

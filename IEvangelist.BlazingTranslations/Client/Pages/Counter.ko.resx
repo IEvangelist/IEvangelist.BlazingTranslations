@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>이 버튼을 눌러 증분</value>
+    <value>이 버튼을 클릭하여 증분</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>현재 개수:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>카운터 값</value>
+    <value>카운터 예제(바인딩)</value>
   </data>
 </root>

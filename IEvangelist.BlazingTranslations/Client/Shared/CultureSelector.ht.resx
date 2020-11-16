@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Chanje Kilti</value>
+    <value>Chanje kilti chwazi?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Femen</value>
+    <value>Anile</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Oke</value>
+    <value>Konfime</value>
   </data>
 </root>

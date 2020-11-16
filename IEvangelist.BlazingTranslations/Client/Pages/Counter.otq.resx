@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Incremento pulsando nuna ar botón</value>
+    <value>'Yot'e clic jar nuna ar botón pa incrementar</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Recuento corrientes:</value>
+    <value>Recuento nu'bya:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Valores contador</value>
+    <value>Ejemplo contador (ko enlace)</value>
   </data>
 </root>

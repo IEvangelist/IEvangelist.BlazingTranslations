@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Tăng dần bằng cách nhấn nút này</value>
+    <value>Nhấp vào nút này để tăng</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>Số lượng hiện tại:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Giá trị truy cập</value>
+    <value>Ví dụ về Truy cập (có ràng buộc)</value>
   </data>
 </root>

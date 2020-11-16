@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>bi pêlêkirina vê bişkojkê zêde dibe</value>
+    <value>Ji bo zêdekirina vê bişkojkê bitikînin</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>Jimartina heyî:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Nirxên berevajî</value>
+    <value>Mînaka Berevajî (bi girêdanê re)</value>
   </data>
 </root>

@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>ఈ బటన్ నొక్కడం ద్వారా ఇంక్రిమెంట్</value>
+    <value>ఇంక్రిమెంటు కొరకు ఈ బటన్ మీద క్లిక్ చేయండి.</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>ప్రస్తుత లెక్కింపు:</value>
+    <value>ప్రస్తుత కౌంట్:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>కౌంటర్ విలువలు</value>
+    <value>కౌంటర్ ఉదాహరణ (బైండింగ్ తో)</value>
   </data>
 </root>

@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>התומצטבר על-ידי לחיצה על לחצן זה</value>
+    <value>לחץ על לחצן זה כדי להודרג</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>ספירה נוכחית:</value>
+    <value>הספירה הנוכחית:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>ערכי מונה</value>
+    <value>דוגמת מונה (עם איגוד)</value>
   </data>
 </root>

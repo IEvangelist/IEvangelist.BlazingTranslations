@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>এই বোতাম টিপে বৃদ্ধি করুন</value>
+    <value>বৃদ্ধি করতে এই বাটনে ক্লিক করুন</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>বর্তমান গণনা:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>পাল্টা মান</value>
+    <value>কাউন্টার উদাহরণ (বাইন্ডিং সহ)</value>
   </data>
 </root>

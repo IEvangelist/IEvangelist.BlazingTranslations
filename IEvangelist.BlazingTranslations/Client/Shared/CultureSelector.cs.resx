@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Změnit kulturu</value>
+    <value>Změnit vybranou kulturu?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Zavřete</value>
+    <value>Zrušit</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Ok</value>
+    <value>Potvrdit</value>
   </data>
 </root>

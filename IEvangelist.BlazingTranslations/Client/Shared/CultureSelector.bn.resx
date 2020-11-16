@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>সংস্কৃতি পরিবর্তন করুন</value>
+    <value>নির্বাচিত সংস্কৃতি পরিবর্তন?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>বন্ধ</value>
+    <value>বাতিল</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>ঠিক আছে</value>
+    <value>নিশ্চিত</value>
   </data>
 </root>

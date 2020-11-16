@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Pambungbog sa pamamagitan ng pagpindot sa button na ito</value>
+    <value>Mag-klik sa button na ito para mag-increment</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Kasalukuyang bilang:</value>
+    <value>Ang kasalukuyang bilang:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Kontrahin ang mga pinahahalagahan</value>
+    <value>Counter Halimbawa (na may pagbibigkis)</value>
   </data>
 </root>

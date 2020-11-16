@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Ibdel il-Kultura</value>
+    <value>Ibdel il-kultura magħżula?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Qrib</value>
+    <value>Ikkanċella</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Kollox sew</value>
+    <value>Jikkonferma</value>
   </data>
 </root>

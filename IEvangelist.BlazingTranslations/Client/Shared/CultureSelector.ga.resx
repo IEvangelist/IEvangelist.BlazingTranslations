@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Athraigh Cultúr</value>
+    <value>Athraigh an cultúr roghnaithe?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Dún@ item: in</value>
+    <value>Cuir ar ceal</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Ceart go leor</value>
+    <value>Deimhnigh</value>
   </data>
 </root>

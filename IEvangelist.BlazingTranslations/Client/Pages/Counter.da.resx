@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Forøg ved at trykke på denne knap</value>
+    <value>Klik på denne knap for at forøge</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Aktuelt antal:</value>
+    <value>Det aktuelle antal:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Tællerværdier</value>
+    <value>Eksempel på tæller (med binding)</value>
   </data>
 </root>

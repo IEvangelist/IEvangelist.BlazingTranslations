@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Kenaikan dengan menekan butang ini</value>
+    <value>Klik pada butang ini untuk kenaikan</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>Kiraan semasa:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Nilai kaunter</value>
+    <value>Contoh Kaunter (dengan mengikat)</value>
   </data>
 </root>

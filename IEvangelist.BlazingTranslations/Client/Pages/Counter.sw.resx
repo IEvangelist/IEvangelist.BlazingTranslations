@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Nyuliza kwa kubonyeza kitufe hiki</value>
+    <value>Bofya kwenye kitufe hiki ili kuongeza</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>Hesabu ya sasa:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Pinga thamani</value>
+    <value>Mfano wa Kukabiliana (kwa kufunga)</value>
   </data>
 </root>

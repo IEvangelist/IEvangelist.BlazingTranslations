@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Bu düğmeye basarak artış</value>
+    <value>Artış için bu düğmeye tıklayın</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>Geçerli sayı:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Sayaç değerleri</value>
+    <value>Sayaç Örneği (bağlayıcı)</value>
   </data>
 </root>

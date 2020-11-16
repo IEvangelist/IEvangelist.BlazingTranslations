@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Incrementare prin apăsarea acestui buton</value>
+    <value>Faceți clic pe acest buton pentru a incrementa</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Număr curent:</value>
+    <value>Numărul curent:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Valori contor</value>
+    <value>Contra exemplu (cu legare)</value>
   </data>
 </root>

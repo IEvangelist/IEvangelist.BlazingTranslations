@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Increment ʻaki haʻo lomiʻi ʻa e button ko ʻeni</value>
+    <value>Lomiʻi heni ke increment</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Lau lolotongá:</value>
+    <value>Ko e lau lolotonga:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Fakafepakiʻi e ngaahi tuʻ</value>
+    <value>Sipinga fakafepakiʻi (mo hono haʻi)</value>
   </data>
 </root>

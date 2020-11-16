@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Newid Diwylliant</value>
+    <value>Newid y diwylliant a ddewiswyd?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Agos</value>
+    <value>Canslo</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Ocê</value>
+    <value>Gadarnhau</value>
   </data>
 </root>

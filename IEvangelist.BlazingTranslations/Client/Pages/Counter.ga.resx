@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Incrimint tríd an gcnaipe seo a bhrú</value>
+    <value>Cliceáil ar an gcnaipe seo chun incrimint a dhéanamh</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Comhaireamh reatha:</value>
+    <value>An comhaireamh reatha:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Frithluachanna</value>
+    <value>Sampla Frith (le ceangailteach)</value>
   </data>
 </root>

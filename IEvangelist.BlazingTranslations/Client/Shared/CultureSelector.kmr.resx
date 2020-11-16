@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Çandbiguherîne</value>
+    <value>Çanda hilbijartî biguherîne?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Bigire</value>
+    <value>Betal kirin</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Temam</value>
+    <value>Piştrast bike</value>
   </data>
 </root>

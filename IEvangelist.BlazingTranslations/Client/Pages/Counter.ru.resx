@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Приращение, нажав на эту кнопку</value>
+    <value>Нажмите на эту кнопку, чтобы приращение</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Текущее количество:</value>
+    <value>Текущий подсчет:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Встречные значения</value>
+    <value>Встречный пример (с привязкой)</value>
   </data>
 </root>

@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Осы батырманы басу арқылы өсу</value>
+    <value>Бұл батырманы ретке қосу үшін басыңыз</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>Назардағы сан:</value>
+    <value>Ағымдағы саны:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Қарсы мәндер</value>
+    <value>Қарсы мысал (міндетті түрде)</value>
   </data>
 </root>

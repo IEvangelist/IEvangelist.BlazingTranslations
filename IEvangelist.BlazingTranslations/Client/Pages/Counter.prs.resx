@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>افزایش با فشار دادن این دکمه</value>
+    <value>با کلیک بر روی این دکمه به افزایش</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
     <value>تعداد فعلی:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>ارزش های مقابله</value>
+    <value>مثال شمارنده (با اتصال)</value>
   </data>
 </root>
