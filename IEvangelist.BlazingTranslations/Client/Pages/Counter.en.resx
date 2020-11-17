@@ -118,12 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClickMe" xml:space="preserve">
-    <value>Click on this button to increment</value>
+    <value>Click me</value>
   </data>
   <data name="CounterCount" xml:space="preserve">
-    <value>The current count:</value>
+    <value>Current count value:</value>
   </data>
   <data name="CounterTitle" xml:space="preserve">
-    <value>Counter Example (with binding)</value>
+    <value>Example binding - Counter</value>
   </data>
 </root>
