@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Taui i te taere i maitihia?</value>
+    <value>Maiti i te hoe taere taa e?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Faaore i te</value>
+    <value>Maiti</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Haapapu</value>
+    <value>Maiti</value>
   </data>
 </root>

@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Seçili kültürü değiştirmek mi?</value>
+    <value>Farklı bir kültür mü seç?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>İptal</value>
+    <value>Göz ardı</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Onaylamak</value>
+    <value>Seçin</value>
   </data>
 </root>

@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Thay đổi văn hóa đã chọn?</value>
+    <value>Chọn một nền văn hóa khác?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Hủy bỏ</value>
+    <value>Coi thường</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Xác nhận</value>
+    <value>Chọn</value>
   </data>
 </root>

@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Kev hloov xaiv nyuas?</value>
+    <value>Xaiv ib nyuas sib txawv?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>nkaum</value>
+    <value>Pov tseg</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>tshawb kom paub txaus</value>
+    <value>Xaiv</value>
   </data>
 </root>

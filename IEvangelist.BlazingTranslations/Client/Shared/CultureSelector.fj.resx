@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Veisau na itovo ni bula digitaki?</value>
+    <value>Digitaka e dua tale na itovo vakavanua?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Bokoca</value>
+    <value>Sega ni vakawalena</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Vakadeitaki ni</value>
+    <value>Digia</value>
   </data>
 </root>

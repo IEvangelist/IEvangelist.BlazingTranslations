@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Sui aganuu filifilia?</value>
+    <value>Filifili se aganuu ese?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Faaleaoga</value>
+    <value>Le amanaiaina</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Faamautu</value>
+    <value>Filifili le</value>
   </data>
 </root>

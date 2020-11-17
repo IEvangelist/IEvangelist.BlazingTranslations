@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>گۆڕینی کەلتوری دیاریکراو؟</value>
+    <value>کلتورێکی جیاواز دیاریبکە؟</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>هەڵوەشاندنەوه</value>
+    <value>بێ رێزی</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>پشتڕاستی بکەوە</value>
+    <value>دیاریبکە</value>
   </data>
 </root>

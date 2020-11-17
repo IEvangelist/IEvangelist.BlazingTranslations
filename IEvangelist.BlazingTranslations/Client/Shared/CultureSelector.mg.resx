@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChangeCulture" xml:space="preserve">
-    <value>Fanovana ny kolontsaina voafantina?</value>
+    <value>Misafidiana kolontsaina hafa?</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Manafoana</value>
+    <value>Tsy firaharahiana</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Manamafy</value>
+    <value>Fanteno</value>
   </data>
 </root>
